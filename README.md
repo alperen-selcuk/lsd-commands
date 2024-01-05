@@ -18,3 +18,5 @@ iTerm2 > Preferences > Profiles > Text > Non-ASCII-Font -> Hack Nerd Font
 
 
 thats it :)
+
+for more information:  https://github.com/lsd-rs/lsd
